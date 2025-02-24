@@ -1,0 +1,12 @@
+# Bỏ qua thư mục môi trường ảo
+env/
+.venv/
+venv/
+
+Env3_11/
+
+
+# Bỏ qua các file không cần thiết khác
+__pycache__/
+*.pyc
+.DS_Store
